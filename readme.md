@@ -165,6 +165,5 @@ Contributions to the project are welcome. To contribute, please follow the guide
 -->
 
 
-* [Live Link](https://tutortrek.online/)
 
 
